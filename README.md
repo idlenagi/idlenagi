@@ -1,4 +1,4 @@
-# Hi there, I'm Theresia Mulyadi (陳友平) 👋
+# Hi I'm Theresia Mulyadi (陳友平) 👋
 
 ### 🚀 EECS Student | Interested in Systems Architect | Edge AI & IoT Security Enthusiast
 
