@@ -59,6 +59,3 @@ Beyond the code, I am active in the NTHU international community:
 * **Email:** matchabong12@gmail.com
 * **Location:** Hsinchu, Taiwan 🇹🇼
 
----
-
-*“I don’t just follow tutorials; I build systems to understand how they break—and then I make them unbreakable.”*
